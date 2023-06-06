@@ -1,0 +1,14 @@
+{
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on"
+    },
+    "javascript.suggestionActions.enabled": true,
+    "typescript.suggestionActions.enabled": false,
+    "editor.inlineSuggest.suppressSuggestions": false,
+    "[json]": {
+        "typescript.suggest.completeJSDocs": true,
+        "typescript.suggest.enabled": true,
+        "editor.inlineSuggest.suppressSuggestions": false
+    }
+}
